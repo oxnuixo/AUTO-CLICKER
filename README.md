@@ -91,7 +91,7 @@ Before running the application, you may need:
 Clone the repository to your local machine:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git https://github.com/oxnuixo/AUTO-CLICKER
 ```
 
 Navigate to the project directory:
@@ -171,8 +171,6 @@ A license has not yet been selected for this project.
 Until a license is added, the repository should not be assumed to grant permission to redistribute or reuse its code. The team will decide on an appropriate license as the project develops.
 
 ## ⭐ Support the Project
-
-If you find the project interesting, consider starring the repository on GitHub.
 
 Suggestions, constructive feedback, and ideas for improvement are always appreciated.
 
