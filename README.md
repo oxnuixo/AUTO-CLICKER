@@ -1,2 +1,0 @@
-# AUTO-CLICKER
-1213
